@@ -7,3 +7,4 @@ sudo yum remove nginx-mod*
 sudo yum install nginx-module-*
 #start nginx service
 if service not starting then reboot 
+now start nginx service
