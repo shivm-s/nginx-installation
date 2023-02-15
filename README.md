@@ -5,4 +5,5 @@ https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-open-
 #after installation
 sudo yum remove nginx-mod*
 sudo yum install nginx-module-*
-start nginx service
+#start nginx service
+if service not starting then reboot 
